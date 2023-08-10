@@ -1,28 +1,28 @@
-# AngularTourOfHeroes
+# Sistema de Gestión de Asistentes para la Biblioteca
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.6.
+¡Bienvenido al repositorio del proyecto de Gestión de Asistentes de la Biblioteca! En este emocionante proyecto, nuestro objetivo principal es desarrollar una solución robusta y amigable que permita al personal de la biblioteca gestionar y monitorear de manera efectiva la afluencia de visitantes en todo momento, otorgándoles nombres de superhéroes como identificadores únicos.
 
-## Development server
+## Objetivo
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Nuestra meta es proporcionar una plataforma de vanguardia que simplifique y optimice la gestión de la ocupación en tiempo real dentro de la biblioteca. Esto abarca desde la creación sencilla de nuevos asistentes hasta la visualización dinámica de un tablero completo con la lista de asistentes. Además, brindamos la capacidad de filtrar rápidamente y ver exclusivamente a aquellos presentes en el recinto, junto con herramientas para editar y eliminar perfiles de asistentes según las necesidades.
 
-## Code scaffolding
+## Tecnologías Destacadas
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Este proyecto se basa en tecnologías líderes en el desarrollo web, garantizando una experiencia excepcional para todos los usuarios:
 
-## Build
+**Frontend:** Para la interfaz de usuario, hemos optado por Angular, un framework de JavaScript ampliamente reconocido por su capacidad para construir interfaces de usuario atractivas, fluidas y altamente funcionales.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+**Backend:** Nuestra plataforma de backend está construida con Express y Node.js, dos herramientas poderosas que garantizan una comunicación fluida y eficiente entre el frontend y la base de datos subyacente.
 
-## Running unit tests
+## Funcionalidades Clave
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Nuestra aplicación ofrece una gama completa de funcionalidades para optimizar la administración de asistentes:
 
-## Running end-to-end tests
+- **Creación de Asistentes:** El personal de la biblioteca tiene la capacidad de agregar nuevos asistentes al sistema, asignándoles emocionantes nombres de superhéroes como identificadores únicos y divertidos.
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+- **Filtrado Inteligente:** Los usuarios pueden filtrar y observar de manera instantánea a los asistentes que se encuentran actualmente en las instalaciones de la biblioteca, facilitando la supervisión de la ocupación.
 
-## Further help
+- **Edición y Eliminación:** Proporcionamos la opción de editar la información de los asistentes existentes y eliminar registros de manera intuitiva, asegurando una gestión flexible y actualizada.
+## Documentación Integral
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
-# Tour-of-Heroes
+Comprendemos la importancia de la documentación en el éxito del proyecto. Nuestro código está meticulosamente documentado para garantizar su comprensión y mantenibilidad a largo plazo. Además, hemos creado una guía detallada que abarca desde la instalación hasta el uso cotidiano del sistema, lo que facilita la adopción sin problemas y la capacitación eficiente del personal.
