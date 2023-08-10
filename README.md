@@ -1,6 +1,6 @@
-# Sistema de Gestión de Asistentes para la Biblioteca
+# Sistema de Control de Asistentes para la Biblioteca
 
-¡Bienvenido al repositorio del proyecto de Gestión de Asistentes de la Biblioteca! En este emocionante proyecto, nuestro objetivo principal es desarrollar una solución robusta y amigable que permita al personal de la biblioteca gestionar y monitorear de manera efectiva la afluencia de visitantes en todo momento, otorgándoles nombres de superhéroes como identificadores únicos.
+¡Bienvenido al repositorio del proyecto de Control de Asistentes de la Biblioteca! En este emocionante proyecto, nuestro objetivo principal es desarrollar una solución robusta y amigable que permita al personal de la biblioteca gestionar y monitorear de manera efectiva la afluencia de visitantes en todo momento, otorgándoles nombres de superhéroes como identificadores únicos.
 
 ## Objetivo
 
